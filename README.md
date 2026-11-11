@@ -5,11 +5,6 @@ join with just a name and bring a dark city back to life by completing 8
 quests — each one teaches a core Python idea and lights up a building, awards
 XP, badges, and levels from Egg to Mayor of Pip City.
 
-Python is real, not simulated: it runs in the browser via
-[Pyodide](https://pyodide.org) (CPython compiled to WebAssembly), so students
-write the same code they would in IDLE. A custom turtle module streams draw
-commands to an animated canvas, inspired by Ozaria-style learn-to-code games.
-
 ## Features
 
 - 8 progressive quests: `print()`, variables, turtle, loops, lists, functions,
